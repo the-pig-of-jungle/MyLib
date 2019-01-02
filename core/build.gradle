@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-
+project.archivesBaseName ='core'
 android {
     compileSdkVersion 28
 
